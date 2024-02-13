@@ -323,6 +323,10 @@
     font-size: 2rem;
     margin-top: 3rem;
   }
+   body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
 
   .main__content h2 {
     font-size: 2rem;
